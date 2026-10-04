@@ -7,11 +7,11 @@
       "models": ["SM-G990E"],
       "kernelVersions": ["5.4.242"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/artifacts/r9s-G990EXXSNHZF5/cve-2026-43499-app.release.so",
+        "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/cve-2026-43499-app.release.so",
         "size": 133160
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/kernelsu/ksud",
+        "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/ksud",
         "size": 6930944
       }
     }
