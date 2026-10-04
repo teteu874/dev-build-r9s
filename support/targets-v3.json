@@ -8,11 +8,11 @@
       "kernelVersions": ["5.4.242"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/cve-2026-43499-app.release.so",
-        "size": 133176
+        "size": NOVO_TAMANHO
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/ksud",
-        "size": 133176
+        "size": NOVO_TAMANHO
       }
     }
   ]
