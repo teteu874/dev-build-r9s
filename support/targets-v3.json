@@ -4,15 +4,19 @@
     {
       "payloadId": "r9s-G990EXXSNHZF5",
       "displayName": "SM-G990E | Kernel 5.4.242",
-      "models": ["SM-G990E"],
-      "kernelVersions": ["5.4.242"],
+      "models": [
+        "SM-G990E"
+      ],
+      "kernelVersions": [
+        "5.4.242"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/cve-2026-43499-app.release.so",
         "size": 134336
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/ksud",
-        "size": 134336
+        "size": 4045080
       }
     }
   ]
