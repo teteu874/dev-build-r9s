@@ -12,7 +12,7 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/cve-2026-43499-app.release.so",
-        "size": 138056
+        "size": 137192
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/teteu874/dev-build-r9s/main/ksud",
@@ -20,5 +20,5 @@
       }
     }
   ],
-  "exploit_size": 138056
+  "exploit_size": 137192
 }
